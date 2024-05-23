@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/a.py
+src/example_package_nat/__init__.py
+src/example_package_nat/example.py
+src/example_package_nat.egg-info/PKG-INFO
+src/example_package_nat.egg-info/SOURCES.txt
+src/example_package_nat.egg-info/dependency_links.txt
+src/example_package_nat.egg-info/top_level.txt
